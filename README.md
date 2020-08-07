@@ -4,7 +4,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Skills
 
-> Programming Languages: Java, Python, R
+> *Programming Languages:* Java, Python, R
 
 > Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
 
