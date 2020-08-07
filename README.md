@@ -1,20 +1,20 @@
-### Hi there, I'm Sudip👋
+## Hi there, I'm Sudip👋
 
-## I'm a Data Engineer turned Data Scientist who loves building Machine Learning and Deep Learning models along with working with data pipelines! Right now, I'm pursuing MS in Data Science to explore my passion in the Data Science domain.
+### I'm a Data Engineer turned Data Scientist who loves building Machine Learning and Deep Learning models along with working with data pipelines! Right now, I'm pursuing MS in Data Science to explore my passion in the Data Science domain.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Skills
 
-> *Programming Languages:* Java, Python, R
+> **Programming Languages:** Java, Python, R
 
-> Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+> **Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP)
 
-> Database: Oracle SQL/PLSQL, PostgreSQL, MySQL, Cassandra, Amazon Redshift, Google BigQuery
+> **Database:** Oracle SQL/PLSQL, PostgreSQL, MySQL, Cassandra, Amazon Redshift, Google BigQuery
 
-> Big Data Tools: Spark SQL, AWS EMR (Elastic Map Reduce)
+> **Big Data Tools:** Spark SQL, AWS EMR (Elastic Map Reduce)
 
-> Software: Informatica PowerCenter 10.x, Tableau, TensorFlow, Apache AirFlow
+> **Software:** Informatica PowerCenter 10.x, Tableau, TensorFlow, Apache AirFlow
 
-> Data Science: Machine Learning, Exploratory Data Analysis, Data Mining, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing), Natural Language Processing (NLP) using RNN, CNN 
+> **Data Science:** Machine Learning, Exploratory Data Analysis, Data Mining, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing), Natural Language Processing (NLP) using RNN, CNN 
 
 ### Connect with me:
 
