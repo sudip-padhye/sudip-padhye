@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Sudip👋
+## I'm a Data Engineer turned Data Scientist who loves building Machine Learning and Deep Learning models along with working with data pipelines! Right now, I'm pursuing MS in Data Science to explore my passion in the Data Science domain.
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Skills
+• Programming Languages: Java, Python, R
+• Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+• Database: Oracle SQL/PLSQL, PostgreSQL, MySQL, Cassandra, Amazon Redshift, Google BigQuery
+• Big Data Tools: Spark SQL, AWS EMR (Elastic Map Reduce)
+• Software: Informatica PowerCenter 10.x, Tableau, TensorFlow, Apache AirFlow
+• Data Science: Machine Learning, Exploratory Data Analysis, Data Mining, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing), Natural Language Processing (NLP) using RNN, CNN 
 
-<!--
-**sudip-padhye/sudip-padhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="sp | Medium" width="22px" src="medium.com/@sudip.padhye" />][medium]
+[<img align="left" alt="sp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [All About Data Lakes](https://medium.com/@sudip.padhye/all-about-data-lakes-b07b5b1f9a31)
+- [A quick Introduction to Apache Airflow](https://medium.com/@sudip.padhye/a-quick-introduction-to-apache-airflow-73d3c9d6e8e0)
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="Sudip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudip-padhye&show_icons=true&hide_border=true" />
