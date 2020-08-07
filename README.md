@@ -1,4 +1,5 @@
 ### Hi there, I'm Sudip👋
+
 ## I'm a Data Engineer turned Data Scientist who loves building Machine Learning and Deep Learning models along with working with data pipelines! Right now, I'm pursuing MS in Data Science to explore my passion in the Data Science domain.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Skills
@@ -17,8 +18,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sp | Medium" width="22px" src="medium.com/@sudip.padhye" />][medium]
-[<img align="left" alt="sp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sudip-padhye | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
+[<img align="left" alt="sudip-padhye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -34,3 +35,6 @@
 ---
 
 <img align="left" alt="Sudip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudip-padhye&show_icons=true&hide_border=true" />
+
+[medium]: medium.com/@sudip.padhye
+[linkedin]: linkedin.com/in/sudippadhye
