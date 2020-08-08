@@ -45,7 +45,7 @@
 
 ---
 
-<img align="left" alt="Sudip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudip-padhye&show_icons=true&hide_border=true" />
+<img align="left" alt="Sudip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudip-padhye&show_icons=true&hide_border=true&theme=radical" />
 
 <br />
 
