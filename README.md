@@ -1,4 +1,4 @@
-## Hi there, I'm Sudip👋
+## Hi there, I'm [Sudip!](https://linkedin.com/in/sudippadhye) 👋
 
 [<img align="left" alt="sudip-padhye | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 [<img align="left" alt="sudip-padhye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
