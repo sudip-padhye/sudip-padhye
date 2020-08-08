@@ -6,6 +6,8 @@
 [<img align="left" alt="sudip-padhye | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="sudip-padhye | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sudip-padhye | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="sudip-padhye | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="sudip-padhye | GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][googlescholar]
 
 <br />
 
@@ -59,3 +61,5 @@
 [facebook]: https://www.facebook.com/sudip.padhye/
 [instagram]: https://www.instagram.com/blitz_snappers/?hl=en
 [github]: https://github.com/sudip-padhye
+[quora]: https://www.quora.com/profile/Sudip-Padhye
+[googlescholar]: https://scholar.google.com/citations?user=dxut0BMAAAAJ&hl=en
