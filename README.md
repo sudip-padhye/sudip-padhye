@@ -45,6 +45,8 @@
 
 <img align="left" alt="Sudip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudip-padhye&show_icons=true&hide_border=true" />
 
+<br />
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
