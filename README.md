@@ -45,6 +45,12 @@
 
 <img align="left" alt="Sudip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudip-padhye&show_icons=true&hide_border=true" />
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 [medium]: https://medium.com/@sudip.padhye
 [linkedin]: https://linkedin.com/in/sudippadhye
 [twitter]: https://twitter.com/SudipPadhye
