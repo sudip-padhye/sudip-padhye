@@ -11,22 +11,24 @@
 
 <br />
 
-### I'm a Data Engineer turned Data Scientist who loves building Machine Learning and Deep Learning models along with working with data pipelines! Right now, I'm pursuing MS in Data Science to explore my passion in the Data Science domain.
+### I'm a Data Engineer turned Software Engineer who loves building and working with data pipelines. My latest project enables people to migrate data from a Data-warehouse to Data Lakes and later analyze them on the cloud. Right now, I'm pursuing MS in Data Science to explore my passion in the Data Science domain.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
 - ⚡ Skills
 
-> **Programming Languages:** Java, Python, R
+> **Programming Languages: Java (Object Oriented Programming), Python, R
 
-> **Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP)
+> **Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), DataBricks
 
-> **Database:** Oracle SQL/PLSQL, PostgreSQL, MySQL, Cassandra, Amazon Redshift, Google BigQuery
+> **Database: Oracle SQL/PLSQL, PostgreSQL, MySQL, Cassandra, Amazon Redshift, Google BigQuery
 
-> **Big Data Tools:** Spark SQL, AWS EMR (Elastic Map Reduce)
+> **Big Data Tools: Spark SQL, AWS EMR (Elastic Map Reduce), AWS Athena, MapReduce
 
-> **Software:** Informatica PowerCenter 10.x, Tableau, TensorFlow, Apache AirFlow
+> **Software: Informatica PowerCenter 10.x, Tableau, TensorFlow, Apache AirFlow
 
-> **Data Science:** Machine Learning, Exploratory Data Analysis, Data Mining, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing), Natural Language Processing (NLP) using RNN, CNN 
+> **DevOps Tools: Docker, Kubernetes, GitHub, Ansible, Chef, Maven
+
+> **Data Science: Machine Learning, Exploratory Data Analysis, Data Mining, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing), Deep Learning 
 
 [![Twitter: SudipPadhye](https://img.shields.io/twitter/follow/SudipPadhye?style=social)](https://twitter.com/SudipPadhye)
 [![Linkedin: sudippadhye](https://img.shields.io/badge/-sudippadhye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudippadhye/)](https://www.linkedin.com/in/sudippadhye/)
